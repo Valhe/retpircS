@@ -1,3 +1,4 @@
+spawn(fuction()
 --Envidioso DHAT
 if game.PlaceId == 9824221333 then
   local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
@@ -1364,7 +1365,7 @@ end
 
 
 
-
+spawn(fuction()
 --Envidioso SFS
 if game.PlaceId == 11040063484 then
   local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
