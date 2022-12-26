@@ -11,10 +11,7 @@ if game.PlaceId == 11040063484 then
 --Main
 local Exploits = Main:NewSection("Funciones")
 
---AUTOCLICK
 Exploits:NewButton("AutoClick", "By Me", function()
-
-game:GetService("ReplicatedStorage").Packages.Cooldown.Destoy()
 while true do
 game:GetService("ReplicatedStorage").Packages.Knit.Services.ClickService.RF.Click:InvokeServer() 
 wait(0.1)
