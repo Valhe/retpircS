@@ -2,7 +2,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Valhe/DhAimTrainner/m
 
 --Envidioso SFS
 
-
+spawn(function()
 if game.PlaceId == 11040063484 then
 
   local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
