@@ -3,12 +3,26 @@
 
 
 if game.PlaceId == 9824221333 then
+
+
   local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+  
+  
   local Window = Library.CreateLib("DHAT - retpircS#8599", "Sentinel")
+  
+  
+  
   local Main = Window:NewTab("Principal")
+  
+  
   local Tepe = Window:NewTab("Tp")
+  
+  
   local Otros = Window:NewTab("Otros")
+  
+  
   local Credits = Window:NewTab("retpircS#8599")
+  
   
   
   
@@ -1367,8 +1381,16 @@ end
 
 
 --Envidioso SFS
+
+
 if game.PlaceId == 11040063484 then
+
+  local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+
   local Window = Library.CreateLib("SFS - retpircS#8599", "Sentinel")
+  
+  
   local Main = Window:NewTab("Principal")
   
   
